@@ -13,12 +13,21 @@
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "multer": "^1.4.5-lts.2",
+    "multer": "^2.0.1",
     "mysql": "^2.18.1",
     "mysql2": "^3.14.0",
     "open": "^10.1.0",
     "serve-favicon": "^2.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurmenezesp/SaborDoBrasil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arthurmenezesp/SaborDoBrasil/issues"
+  },
+  "homepage": "https://github.com/arthurmenezesp/SaborDoBrasil#readme"
 }
